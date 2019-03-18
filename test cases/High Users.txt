@@ -1,0 +1,909 @@
+
+./threads 100 5 10 5
+
+User 1 has Arrived to the Bathroom
+User 2 has Arrived to the Bathroom
+User 3 has Arrived to the Bathroom
+User 4 has Arrived to the Bathroom
+User 5 has Arrived to the Bathroom
+User 6 has Arrived to the Bathroom
+User 7 has Arrived to the Bathroom
+User 8 has Arrived to the Bathroom
+User 9 has Arrived to the Bathroom
+User 10 has Arrived to the Bathroom
+User 11 has Arrived to the Bathroom
+User 12 has Arrived to the Bathroom
+User 13 has Arrived to the Bathroom
+User 14 has Arrived to the Bathroom
+User 15 has Arrived to the Bathroom
+User 16 has Arrived to the Bathroom
+User 17 has Arrived to the Bathroom
+User 18 has Arrived to the Bathroom
+User 19 has Arrived to the Bathroom
+User 20 has Arrived to the Bathroom
+User 21 has Arrived to the Bathroom
+User 22 has Arrived to the Bathroom
+User 23 has Arrived to the Bathroom
+User 24 has Arrived to the Bathroom
+User 25 has Arrived to the Bathroom
+User 26 has Arrived to the Bathroom
+User 27 has Arrived to the Bathroom
+User 28 has Arrived to the Bathroom
+User 29 has Arrived to the Bathroom
+User 30 has Arrived to the Bathroom
+User 31 has Arrived to the Bathroom
+User 32 has Arrived to the Bathroom
+User 33 has Arrived to the Bathroom
+User 34 has Arrived to the Bathroom
+User 35 has Arrived to the Bathroom
+User 36 has Arrived to the Bathroom
+User 37 has Arrived to the Bathroom
+User 38 has Arrived to the Bathroom
+User 39 has Arrived to the Bathroom
+User 40 has Arrived to the Bathroom
+User 41 has Arrived to the Bathroom
+User 42 has Arrived to the Bathroom
+User 43 has Arrived to the Bathroom
+User 44 has Arrived to the Bathroom
+User 45 has Arrived to the Bathroom
+User 46 has Arrived to the Bathroom
+User 47 has Arrived to the Bathroom
+User 48 has Arrived to the Bathroom
+User 49 has Arrived to the Bathroom
+User 50 has Arrived to the Bathroom
+User 51 has Arrived to the Bathroom
+User 52 has Arrived to the Bathroom
+User 53 has Arrived to the Bathroom
+User 54 has Arrived to the Bathroom
+User 55 has Arrived to the Bathroom
+User 56 has Arrived to the Bathroom
+User 57 has Arrived to the Bathroom
+User 58 has Arrived to the Bathroom
+User 59 has Arrived to the Bathroom
+User 60 has Arrived to the Bathroom
+User 61 has Arrived to the Bathroom
+User 62 has Arrived to the Bathroom
+User 63 has Arrived to the Bathroom
+User 64 has Arrived to the Bathroom
+User 65 has Arrived to the Bathroom
+User 66 has Arrived to the Bathroom
+User 67 has Arrived to the Bathroom
+User 68 has Arrived to the Bathroom
+User 69 has Arrived to the Bathroom
+User 70 has Arrived to the Bathroom
+User 71 has Arrived to the Bathroom
+User 72 has Arrived to the Bathroom
+User 73 has Arrived to the Bathroom
+User 74 has Arrived to the Bathroom
+User 75 has Arrived to the Bathroom
+User 76 has Arrived to the Bathroom
+User 77 has Arrived to the Bathroom
+User 78 has Arrived to the Bathroom
+User 79 has Arrived to the Bathroom
+User 80 has Arrived to the Bathroom
+User 81 has Arrived to the Bathroom
+User 82 has Arrived to the Bathroom
+User 83 has Arrived to the Bathroom
+User 84 has Arrived to the Bathroom
+User 85 has Arrived to the Bathroom
+User 86 has Arrived to the Bathroom
+User 87 has Arrived to the Bathroom
+User 88 has Arrived to the Bathroom
+User 89 has Arrived to the Bathroom
+User 90 has Arrived to the Bathroom
+User 91 has Arrived to the Bathroom
+User 92 has Arrived to the Bathroom
+User 93 has Arrived to the Bathroom
+User 94 has Arrived to the Bathroom
+User 95 has Arrived to the Bathroom
+User 96 has Arrived to the Bathroom
+User 97 has Arrived to the Bathroom
+User 98 has Arrived to the Bathroom
+User 99 has Arrived to the Bathroom
+User 100 has Arrived to the Bathroom
+
+User 64 has Finished All Uses of the Bathroom
+   Thread ID: 140601081177856
+   Gender: Male
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 38 has Finished All Uses of the Bathroom
+   Thread ID: 140601609656064
+   Gender: Male
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 2 has Finished All Uses of the Bathroom
+   Thread ID: 140603749861120
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 57 has Finished All Uses of the Bathroom
+   Thread ID: 140601215395584
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 30 has Finished All Uses of the Bathroom
+   Thread ID: 140602012309248
+   Gender: Male
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 94 has Finished All Uses of the Bathroom
+   Thread ID: 140600829396736
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 54 has Finished All Uses of the Bathroom
+   Thread ID: 140601240573696
+   Gender: Male
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 17 has Finished All Uses of the Bathroom
+   Thread ID: 140602666645248
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 22 has Finished All Uses of the Bathroom
+   Thread ID: 140602624681728
+   Gender: Male
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 76 has Finished All Uses of the Bathroom
+   Thread ID: 140600980465408
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 1 has Finished All Uses of the Bathroom
+   Thread ID: 140603758253824
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 46 has Finished All Uses of the Bathroom
+   Thread ID: 140601383184128
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 20 has Finished All Uses of the Bathroom
+   Thread ID: 140602641467136
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 97 has Finished All Uses of the Bathroom
+   Thread ID: 140600804218624
+   Gender: Male
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 99 has Finished All Uses of the Bathroom
+   Thread ID: 140600787433216
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 100 has Finished All Uses of the Bathroom
+   Thread ID: 140600779040512
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 8 has Finished All Uses of the Bathroom
+   Thread ID: 140603631314688
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 51 has Finished All Uses of the Bathroom
+   Thread ID: 140601341220608
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 27 has Finished All Uses of the Bathroom
+   Thread ID: 140602037487360
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 49 has Finished All Uses of the Bathroom
+   Thread ID: 140601358006016
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 25 has Finished All Uses of the Bathroom
+   Thread ID: 140602054272768
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 4 has Finished All Uses of the Bathroom
+   Thread ID: 140603664885504
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 39 has Finished All Uses of the Bathroom
+   Thread ID: 140601525794560
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 60 has Finished All Uses of the Bathroom
+   Thread ID: 140601114748672
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 32 has Finished All Uses of the Bathroom
+   Thread ID: 140601651619584
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 68 has Finished All Uses of the Bathroom
+   Thread ID: 140601047607040
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 89 has Finished All Uses of the Bathroom
+   Thread ID: 140600871360256
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 75 has Finished All Uses of the Bathroom
+   Thread ID: 140600988858112
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 91 has Finished All Uses of the Bathroom
+   Thread ID: 140600854574848
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 18 has Finished All Uses of the Bathroom
+   Thread ID: 140602658252544
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 55 has Finished All Uses of the Bathroom
+   Thread ID: 140601232180992
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 31 has Finished All Uses of the Bathroom
+   Thread ID: 140601660012288
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 77 has Finished All Uses of the Bathroom
+   Thread ID: 140600972072704
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 41 has Finished All Uses of the Bathroom
+   Thread ID: 140601509009152
+   Gender: Male
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 5 has Finished All Uses of the Bathroom
+   Thread ID: 140603656492800
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 14 has Finished All Uses of the Bathroom
+   Thread ID: 140603505489664
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 53 has Finished All Uses of the Bathroom
+   Thread ID: 140601248966400
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 19 has Finished All Uses of the Bathroom
+   Thread ID: 140602649859840
+   Gender: Male
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 88 has Finished All Uses of the Bathroom
+   Thread ID: 140600879752960
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 3 has Finished All Uses of the Bathroom
+   Thread ID: 140603673278208
+   Gender: Male
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 59 has Finished All Uses of the Bathroom
+   Thread ID: 140601123141376
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 87 has Finished All Uses of the Bathroom
+   Thread ID: 140600888145664
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 74 has Finished All Uses of the Bathroom
+   Thread ID: 140600997250816
+   Gender: Male
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 52 has Finished All Uses of the Bathroom
+   Thread ID: 140601257359104
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 34 has Finished All Uses of the Bathroom
+   Thread ID: 140601500616448
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 73 has Finished All Uses of the Bathroom
+   Thread ID: 140601005643520
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 98 has Finished All Uses of the Bathroom
+   Thread ID: 140600795825920
+   Gender: Male
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 35 has Finished All Uses of the Bathroom
+   Thread ID: 140601634834176
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 65 has Finished All Uses of the Bathroom
+   Thread ID: 140601072785152
+   Gender: Male
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 43 has Finished All Uses of the Bathroom
+   Thread ID: 140601483831040
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 13 has Finished All Uses of the Bathroom
+   Thread ID: 140603513882368
+   Gender: Male
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 0.00 ms
+   Avg Wait Time: 0.00 ms
+
+User 86 has Finished All Uses of the Bathroom
+   Thread ID: 140600896538368
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 4.00 ms
+   Avg Wait Time: 0.67 ms
+
+User 7 has Finished All Uses of the Bathroom
+   Thread ID: 140603639707392
+   Gender: Female
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 136.00 ms
+   Avg Wait Time: 45.67 ms
+
+User 40 has Finished All Uses of the Bathroom
+   Thread ID: 140601517401856
+   Gender: Female
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 136.00 ms
+   Avg Wait Time: 45.33 ms
+
+User 9 has Finished All Uses of the Bathroom
+   Thread ID: 140603622921984
+   Gender: Female
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 133.00 ms
+   Avg Wait Time: 44.33 ms
+
+User 29 has Finished All Uses of the Bathroom
+   Thread ID: 140602020701952
+   Gender: Female
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 136.00 ms
+   Avg Wait Time: 45.33 ms
+
+User 45 has Finished All Uses of the Bathroom
+   Thread ID: 140601391576832
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 134.00 ms
+   Avg Wait Time: 27.00 ms
+
+User 92 has Finished All Uses of the Bathroom
+   Thread ID: 140600846182144
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 134.00 ms
+   Avg Wait Time: 33.75 ms
+
+User 28 has Finished All Uses of the Bathroom
+   Thread ID: 140602029094656
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 132.00 ms
+   Avg Wait Time: 33.00 ms
+
+User 90 has Finished All Uses of the Bathroom
+   Thread ID: 140600862967552
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 124.00 ms
+   Avg Wait Time: 31.00 ms
+
+User 72 has Finished All Uses of the Bathroom
+   Thread ID: 140601014036224
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 124.00 ms
+   Avg Wait Time: 31.00 ms
+
+User 26 has Finished All Uses of the Bathroom
+   Thread ID: 140602045880064
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 32.25 ms
+
+User 47 has Finished All Uses of the Bathroom
+   Thread ID: 140601374791424
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 132.00 ms
+   Avg Wait Time: 33.00 ms
+
+User 78 has Finished All Uses of the Bathroom
+   Thread ID: 140600963680000
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 133.00 ms
+   Avg Wait Time: 26.80 ms
+
+User 42 has Finished All Uses of the Bathroom
+   Thread ID: 140601492223744
+   Gender: Female
+   Uses: 3
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 130.00 ms
+   Avg Wait Time: 43.33 ms
+
+User 84 has Finished All Uses of the Bathroom
+   Thread ID: 140600913323776
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 26.20 ms
+
+User 69 has Finished All Uses of the Bathroom
+   Thread ID: 140601039214336
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 130.00 ms
+   Avg Wait Time: 32.50 ms
+
+User 83 has Finished All Uses of the Bathroom
+   Thread ID: 140600921716480
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 130.00 ms
+   Avg Wait Time: 26.20 ms
+
+User 62 has Finished All Uses of the Bathroom
+   Thread ID: 140601097963264
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 32.75 ms
+
+User 15 has Finished All Uses of the Bathroom
+   Thread ID: 140603497096960
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 32.75 ms
+
+User 12 has Finished All Uses of the Bathroom
+   Thread ID: 140603522275072
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 134.00 ms
+   Avg Wait Time: 22.33 ms
+
+User 95 has Finished All Uses of the Bathroom
+   Thread ID: 140600821004032
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 126.00 ms
+   Avg Wait Time: 25.20 ms
+
+User 71 has Finished All Uses of the Bathroom
+   Thread ID: 140601022428928
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 132.00 ms
+   Avg Wait Time: 26.40 ms
+
+User 93 has Finished All Uses of the Bathroom
+   Thread ID: 140600837789440
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 124.00 ms
+   Avg Wait Time: 31.00 ms
+
+User 63 has Finished All Uses of the Bathroom
+   Thread ID: 140601089570560
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 26.40 ms
+
+User 48 has Finished All Uses of the Bathroom
+   Thread ID: 140601366398720
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 134.00 ms
+   Avg Wait Time: 22.33 ms
+
+User 11 has Finished All Uses of the Bathroom
+   Thread ID: 140603530667776
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 133.00 ms
+   Avg Wait Time: 26.80 ms
+
+User 44 has Finished All Uses of the Bathroom
+   Thread ID: 140601475438336
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 26.20 ms
+
+User 61 has Finished All Uses of the Bathroom
+   Thread ID: 140601106355968
+   Gender: Female
+   Uses: 4
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 32.75 ms
+
+User 21 has Finished All Uses of the Bathroom
+   Thread ID: 140602633074432
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 134.00 ms
+   Avg Wait Time: 26.80 ms
+
+User 36 has Finished All Uses of the Bathroom
+   Thread ID: 140601626441472
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 128.00 ms
+   Avg Wait Time: 21.33 ms
+
+User 85 has Finished All Uses of the Bathroom
+   Thread ID: 140600904931072
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 21.50 ms
+
+User 96 has Finished All Uses of the Bathroom
+   Thread ID: 140600812611328
+   Gender: Female
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 133.00 ms
+   Avg Wait Time: 19.00 ms
+
+User 23 has Finished All Uses of the Bathroom
+   Thread ID: 140602616289024
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 21.83 ms
+
+User 70 has Finished All Uses of the Bathroom
+   Thread ID: 140601030821632
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 130.00 ms
+   Avg Wait Time: 21.67 ms
+
+User 82 has Finished All Uses of the Bathroom
+   Thread ID: 140600930109184
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 21.50 ms
+
+User 16 has Finished All Uses of the Bathroom
+   Thread ID: 140603488704256
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 25.80 ms
+
+User 56 has Finished All Uses of the Bathroom
+   Thread ID: 140601223788288
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 128.00 ms
+   Avg Wait Time: 21.33 ms
+
+User 24 has Finished All Uses of the Bathroom
+   Thread ID: 140602062665472
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 25.80 ms
+
+User 33 has Finished All Uses of the Bathroom
+   Thread ID: 140601643226880
+   Gender: Male
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 60.00 ms
+   Avg Wait Time: 10.00 ms
+
+User 81 has Finished All Uses of the Bathroom
+   Thread ID: 140600938501888
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 22.50 ms
+
+User 66 has Finished All Uses of the Bathroom
+   Thread ID: 140601064392448
+   Gender: Female
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 18.71 ms
+
+User 50 has Finished All Uses of the Bathroom
+   Thread ID: 140601349613312
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 21.83 ms
+
+User 37 has Finished All Uses of the Bathroom
+   Thread ID: 140601618048768
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 22.33 ms
+
+User 6 has Finished All Uses of the Bathroom
+   Thread ID: 140603648100096
+   Gender: Female
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 132.00 ms
+   Avg Wait Time: 18.86 ms
+
+User 79 has Finished All Uses of the Bathroom
+   Thread ID: 140600955287296
+   Gender: Female
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 124.00 ms
+   Avg Wait Time: 18.14 ms
+
+User 10 has Finished All Uses of the Bathroom
+   Thread ID: 140603539060480
+   Gender: Female
+   Uses: 5
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 131.00 ms
+   Avg Wait Time: 26.20 ms
+
+User 58 has Finished All Uses of the Bathroom
+   Thread ID: 140601207002880
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 130.00 ms
+   Avg Wait Time: 22.83 ms
+
+User 67 has Finished All Uses of the Bathroom
+   Thread ID: 140601055999744
+   Gender: Female
+   Uses: 7
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 130.00 ms
+   Avg Wait Time: 18.57 ms
+
+User 80 has Finished All Uses of the Bathroom
+   Thread ID: 140600946894592
+   Gender: Female
+   Uses: 6
+   Min Wait Time: 0.00 ms
+   Max Wait Time: 129.00 ms
+   Avg Wait Time: 21.50 ms
+
+All Users Have Finished
+   Total Uses: 503
+   Total Used Time: 729.00 ms
+   Total Vacant Time: 13.00 ms
+
